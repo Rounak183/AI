@@ -1,0 +1,240 @@
+Accuracy :  0.7425
+Confusion Matrix : 
+ [[134  57]
+ [ 46 163]]
+Classification Report: 
+              precision    recall  f1-score   support
+
+           0       0.74      0.70      0.72       191
+           1       0.74      0.78      0.76       209
+
+    accuracy                           0.74       400
+   macro avg       0.74      0.74      0.74       400
+weighted avg       0.74      0.74      0.74       400
+
+The feature selection is: 
+['ID', 'Gender', 'DOB', '10percentage', '10board', '12graduation', '12percentage', '12board', 'CollegeID', 'CollegeTier', 'Degree', 'Specialization', 'collegeGPA', 'CollegeCityID', 'CollegeCityTier', 'CollegeState', 'GraduationYear', 'English', 'Logical', 'Quant', 'Domain', 'ComputerProgramming', 'ElectronicsAndSemicon', 'ComputerScience', 'MechanicalEngg', 'ElectricalEngg', 'TelecomEngg', 'CivilEngg', 'agreeableness', 'extraversion', 'nueroticism']
+Accuracy :  0.715
+Confusion Matrix : 
+ [[126  65]
+ [ 49 160]]
+Classification Report: 
+              precision    recall  f1-score   support
+
+           0       0.72      0.66      0.69       191
+           1       0.71      0.77      0.74       209
+
+    accuracy                           0.71       400
+   macro avg       0.72      0.71      0.71       400
+weighted avg       0.72      0.71      0.71       400
+
+The feature selection is: 
+['ID', 'Gender', 'DOB', '10percentage', '10board', '12graduation', '12percentage', '12board', 'CollegeID', 'CollegeTier', 'Degree', 'Specialization', 'collegeGPA', 'CollegeCityID', 'CollegeCityTier', 'CollegeState', 'GraduationYear', 'Logical', 'Domain', 'ComputerProgramming', 'ElectronicsAndSemicon', 'ComputerScience', 'MechanicalEngg', 'ElectricalEngg', 'TelecomEngg', 'CivilEngg', 'conscientiousness', 'agreeableness', 'extraversion', 'nueroticism', 'openess_to_experience']
+Accuracy :  0.7425
+Confusion Matrix : 
+ [[135  56]
+ [ 47 162]]
+Classification Report: 
+              precision    recall  f1-score   support
+
+           0       0.74      0.71      0.72       191
+           1       0.74      0.78      0.76       209
+
+    accuracy                           0.74       400
+   macro avg       0.74      0.74      0.74       400
+weighted avg       0.74      0.74      0.74       400
+
+The feature selection is: 
+['ID', 'Gender', 'DOB', '10percentage', '10board', '12graduation', '12percentage', '12board', 'CollegeID', 'CollegeTier', 'Degree', 'Specialization', 'CollegeCityID', 'CollegeCityTier', 'CollegeState', 'GraduationYear', 'English', 'Logical', 'Quant', 'Domain', 'ComputerProgramming', 'ElectronicsAndSemicon', 'ComputerScience', 'MechanicalEngg', 'ElectricalEngg', 'TelecomEngg', 'CivilEngg', 'conscientiousness', 'agreeableness', 'extraversion', 'nueroticism']
+Accuracy :  0.7425
+Confusion Matrix : 
+ [[132  59]
+ [ 44 165]]
+Classification Report: 
+              precision    recall  f1-score   support
+
+           0       0.75      0.69      0.72       191
+           1       0.74      0.79      0.76       209
+
+    accuracy                           0.74       400
+   macro avg       0.74      0.74      0.74       400
+weighted avg       0.74      0.74      0.74       400
+
+The feature selection is: 
+['ID', 'Gender', 'DOB', '10percentage', '10board', '12graduation', '12percentage', '12board', 'CollegeID', 'Degree', 'Specialization', 'CollegeCityID', 'CollegeCityTier', 'CollegeState', 'GraduationYear', 'English', 'Logical', 'Quant', 'Domain', 'ComputerProgramming', 'ElectronicsAndSemicon', 'ComputerScience', 'MechanicalEngg', 'ElectricalEngg', 'TelecomEngg', 'CivilEngg', 'conscientiousness', 'agreeableness', 'extraversion', 'nueroticism', 'openess_to_experience']
+Accuracy :  0.715
+Confusion Matrix : 
+ [[128  63]
+ [ 51 158]]
+Classification Report: 
+              precision    recall  f1-score   support
+
+           0       0.72      0.67      0.69       191
+           1       0.71      0.76      0.73       209
+
+    accuracy                           0.71       400
+   macro avg       0.72      0.71      0.71       400
+weighted avg       0.72      0.71      0.71       400
+
+The feature selection is: 
+['ID', 'Gender', 'DOB', '10percentage', '10board', '12percentage', '12board', 'CollegeID', 'CollegeTier', 'Degree', 'Specialization', 'collegeGPA', 'CollegeCityID', 'CollegeCityTier', 'CollegeState', 'GraduationYear', 'English', 'Logical', 'Quant', 'Domain', 'ComputerProgramming', 'ElectronicsAndSemicon', 'ComputerScience', 'ElectricalEngg', 'TelecomEngg', 'CivilEngg', 'conscientiousness', 'agreeableness', 'extraversion', 'nueroticism', 'openess_to_experience']
+Accuracy :  0.7425
+Confusion Matrix : 
+ [[132  59]
+ [ 44 165]]
+Classification Report: 
+              precision    recall  f1-score   support
+
+           0       0.75      0.69      0.72       191
+           1       0.74      0.79      0.76       209
+
+    accuracy                           0.74       400
+   macro avg       0.74      0.74      0.74       400
+weighted avg       0.74      0.74      0.74       400
+
+The feature selection is: 
+['ID', 'Gender', 'DOB', '10board', '12graduation', '12percentage', '12board', 'CollegeID', 'CollegeTier', 'Degree', 'Specialization', 'collegeGPA', 'CollegeCityID', 'CollegeCityTier', 'CollegeState', 'GraduationYear', 'English', 'Logical', 'Quant', 'Domain', 'ComputerProgramming', 'ElectronicsAndSemicon', 'ComputerScience', 'MechanicalEngg', 'ElectricalEngg', 'TelecomEngg', 'CivilEngg', 'conscientiousness', 'agreeableness', 'extraversion', 'openess_to_experience']
+Accuracy :  0.75
+Confusion Matrix : 
+ [[136  55]
+ [ 45 164]]
+Classification Report: 
+              precision    recall  f1-score   support
+
+           0       0.75      0.71      0.73       191
+           1       0.75      0.78      0.77       209
+
+    accuracy                           0.75       400
+   macro avg       0.75      0.75      0.75       400
+weighted avg       0.75      0.75      0.75       400
+
+The feature selection is: 
+['ID', 'Gender', 'DOB', '10board', '12graduation', '12percentage', '12board', 'CollegeID', 'CollegeTier', 'Degree', 'Specialization', 'CollegeCityID', 'CollegeCityTier', 'CollegeState', 'GraduationYear', 'English', 'Logical', 'Quant', 'Domain', 'ComputerProgramming', 'ElectronicsAndSemicon', 'ComputerScience', 'MechanicalEngg', 'ElectricalEngg', 'TelecomEngg', 'CivilEngg', 'conscientiousness', 'agreeableness', 'extraversion', 'nueroticism', 'openess_to_experience']
+Accuracy :  0.7425
+Confusion Matrix : 
+ [[136  55]
+ [ 48 161]]
+Classification Report: 
+              precision    recall  f1-score   support
+
+           0       0.74      0.71      0.73       191
+           1       0.75      0.77      0.76       209
+
+    accuracy                           0.74       400
+   macro avg       0.74      0.74      0.74       400
+weighted avg       0.74      0.74      0.74       400
+
+The feature selection is: 
+['ID', 'DOB', '10percentage', '10board', '12graduation', '12percentage', '12board', 'CollegeID', 'CollegeTier', 'Degree', 'Specialization', 'collegeGPA', 'CollegeCityID', 'CollegeCityTier', 'CollegeState', 'GraduationYear', 'English', 'Logical', 'Quant', 'Domain', 'ComputerProgramming', 'ElectronicsAndSemicon', 'ComputerScience', 'MechanicalEngg', 'ElectricalEngg', 'TelecomEngg', 'CivilEngg', 'conscientiousness', 'agreeableness', 'extraversion', 'nueroticism']
+Accuracy :  0.7475
+Confusion Matrix : 
+ [[136  55]
+ [ 46 163]]
+Classification Report: 
+              precision    recall  f1-score   support
+
+           0       0.75      0.71      0.73       191
+           1       0.75      0.78      0.76       209
+
+    accuracy                           0.75       400
+   macro avg       0.75      0.75      0.75       400
+weighted avg       0.75      0.75      0.75       400
+
+The feature selection is: 
+['ID', 'DOB', '10percentage', '10board', '12graduation', '12percentage', '12board', 'CollegeID', 'CollegeTier', 'Degree', 'Specialization', 'collegeGPA', 'CollegeCityID', 'CollegeCityTier', 'CollegeState', 'GraduationYear', 'English', 'Logical', 'Quant', 'Domain', 'ComputerProgramming', 'ElectronicsAndSemicon', 'MechanicalEngg', 'ElectricalEngg', 'TelecomEngg', 'CivilEngg', 'conscientiousness', 'agreeableness', 'extraversion', 'nueroticism', 'openess_to_experience']
+Accuracy :  0.7425
+Confusion Matrix : 
+ [[131  60]
+ [ 43 166]]
+Classification Report: 
+              precision    recall  f1-score   support
+
+           0       0.75      0.69      0.72       191
+           1       0.73      0.79      0.76       209
+
+    accuracy                           0.74       400
+   macro avg       0.74      0.74      0.74       400
+weighted avg       0.74      0.74      0.74       400
+
+The feature selection is: 
+['ID', 'DOB', '10percentage', '10board', '12graduation', '12percentage', '12board', 'CollegeID', 'Degree', 'Specialization', 'collegeGPA', 'CollegeCityID', 'CollegeCityTier', 'CollegeState', 'GraduationYear', 'English', 'Logical', 'Quant', 'Domain', 'ComputerProgramming', 'ElectronicsAndSemicon', 'ComputerScience', 'MechanicalEngg', 'ElectricalEngg', 'TelecomEngg', 'CivilEngg', 'conscientiousness', 'agreeableness', 'extraversion', 'nueroticism', 'openess_to_experience']
+Accuracy :  0.715
+Confusion Matrix : 
+ [[126  65]
+ [ 49 160]]
+Classification Report: 
+              precision    recall  f1-score   support
+
+           0       0.72      0.66      0.69       191
+           1       0.71      0.77      0.74       209
+
+    accuracy                           0.71       400
+   macro avg       0.72      0.71      0.71       400
+weighted avg       0.72      0.71      0.71       400
+
+The feature selection is: 
+['Gender', 'DOB', '10percentage', '10board', '12graduation', '12percentage', '12board', 'CollegeID', 'CollegeTier', 'Degree', 'Specialization', 'collegeGPA', 'CollegeCityID', 'CollegeCityTier', 'CollegeState', 'GraduationYear', 'English', 'Logical', 'Quant', 'Domain', 'ComputerProgramming', 'ElectronicsAndSemicon', 'ComputerScience', 'MechanicalEngg', 'ElectricalEngg', 'TelecomEngg', 'CivilEngg', 'conscientiousness', 'agreeableness', 'extraversion', 'nueroticism']
+Accuracy :  0.7125
+Confusion Matrix : 
+ [[127  64]
+ [ 51 158]]
+Classification Report: 
+              precision    recall  f1-score   support
+
+           0       0.71      0.66      0.69       191
+           1       0.71      0.76      0.73       209
+
+    accuracy                           0.71       400
+   macro avg       0.71      0.71      0.71       400
+weighted avg       0.71      0.71      0.71       400
+
+The feature selection is: 
+['Gender', 'DOB', '10percentage', '10board', '12graduation', '12percentage', '12board', 'CollegeID', 'CollegeTier', 'Degree', 'Specialization', 'collegeGPA', 'CollegeCityID', 'CollegeCityTier', 'CollegeState', 'GraduationYear', 'Logical', 'Quant', 'Domain', 'ComputerProgramming', 'ElectronicsAndSemicon', 'ComputerScience', 'MechanicalEngg', 'ElectricalEngg', 'TelecomEngg', 'CivilEngg', 'conscientiousness', 'agreeableness', 'extraversion', 'nueroticism', 'openess_to_experience']
+Accuracy :  0.715
+Confusion Matrix : 
+ [[126  65]
+ [ 49 160]]
+Classification Report: 
+              precision    recall  f1-score   support
+
+           0       0.72      0.66      0.69       191
+           1       0.71      0.77      0.74       209
+
+    accuracy                           0.71       400
+   macro avg       0.72      0.71      0.71       400
+weighted avg       0.72      0.71      0.71       400
+
+The feature selection is: 
+['Gender', 'DOB', '10percentage', '10board', '12graduation', '12percentage', '12board', 'CollegeID', 'CollegeTier', 'Degree', 'Specialization', 'CollegeCityID', 'CollegeCityTier', 'CollegeState', 'GraduationYear', 'English', 'Logical', 'Quant', 'Domain', 'ComputerProgramming', 'ElectronicsAndSemicon', 'ComputerScience', 'MechanicalEngg', 'ElectricalEngg', 'TelecomEngg', 'CivilEngg', 'conscientiousness', 'agreeableness', 'extraversion', 'nueroticism', 'openess_to_experience']
+Accuracy :  0.71
+Confusion Matrix : 
+ [[127  64]
+ [ 52 157]]
+Classification Report: 
+              precision    recall  f1-score   support
+
+           0       0.71      0.66      0.69       191
+           1       0.71      0.75      0.73       209
+
+    accuracy                           0.71       400
+   macro avg       0.71      0.71      0.71       400
+weighted avg       0.71      0.71      0.71       400
+
+The feature selection is: 
+['Gender', 'DOB', '10percentage', '10board', '12graduation', '12board', 'CollegeID', 'CollegeTier', 'Degree', 'Specialization', 'collegeGPA', 'CollegeCityID', 'CollegeCityTier', 'CollegeState', 'GraduationYear', 'English', 'Logical', 'Quant', 'Domain', 'ComputerProgramming', 'ElectronicsAndSemicon', 'ComputerScience', 'MechanicalEngg', 'ElectricalEngg', 'TelecomEngg', 'CivilEngg', 'conscientiousness', 'agreeableness', 'extraversion', 'nueroticism', 'openess_to_experience']
+Accuracy :  0.71
+Confusion Matrix : 
+ [[125  66]
+ [ 50 159]]
+Classification Report: 
+              precision    recall  f1-score   support
+
+           0       0.71      0.65      0.68       191
+           1       0.71      0.76      0.73       209
+
+    accuracy                           0.71       400
+   macro avg       0.71      0.71      0.71       400
+weighted avg       0.71      0.71      0.71       400
+
+The feature selection is: 
+['Gender', 'DOB', '10board', '12graduation', '12percentage', '12board', 'CollegeID', 'CollegeTier', 'Degree', 'Specialization', 'collegeGPA', 'CollegeCityID', 'CollegeCityTier', 'CollegeState', 'GraduationYear', 'English', 'Logical', 'Quant', 'Domain', 'ComputerProgramming', 'ElectronicsAndSemicon', 'ComputerScience', 'MechanicalEngg', 'ElectricalEngg', 'TelecomEngg', 'CivilEngg', 'conscientiousness', 'agreeableness', 'extraversion', 'nueroticism', 'openess_to_experience']

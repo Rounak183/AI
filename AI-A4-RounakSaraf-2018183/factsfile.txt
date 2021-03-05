@@ -1,0 +1,16 @@
+name(harsh).
+year(3).
+branch(ece).
+course_list([1, 1, 0, 1, 0, 0, 0]).
+grade_list([10.0, 8.4, 0, 8.8, 0, 0, 0]).
+internship_list([1, 0, 0, 0, 0, 0, 0]).
+research_list([1, 0, 0, 0, 0, 0, 0]).
+projects_list([0, 0, 0, 0, 0, 0, 0]).
+interests_list([1, 0, 0, 0, 0, 0, 0]).
+lors_list([1, 0, 0, 0, 0, 0, 0]).
+coding_skill(1).
+clubs_list([1, 0, 0, 1, 0, 0, 0]).
+online_courses_list([1, 1, 0, 1, 0, 0, 0]).
+long_hour(1).
+phd(1).
+startup(0).
